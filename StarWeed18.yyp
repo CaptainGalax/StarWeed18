@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0081ec49-1da9-428f-b527-a3e4a5faa9bd",
+            "Value": {
+                "id": "b9aaad41-ab17-470a-9bed-d0f46f61b30e",
+                "resourcePath": "objects\\oPlayer\\oPlayer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "197a9183-6d78-45b7-87ae-405c260c667d",
             "Value": {
                 "id": "d932c1aa-f0a3-4a65-9ec8-b98c5b83594c",
@@ -63,6 +71,14 @@
             }
         },
         {
+            "Key": "31a85ee9-b049-4d2a-ad96-e6e8a584835e",
+            "Value": {
+                "id": "4c6a48b4-7662-4f8e-9e71-ae5fdd76e7c5",
+                "resourcePath": "objects\\oInit\\oInit.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "51b5e00e-ed0f-42bf-bf87-e19d65546fe6",
             "Value": {
                 "id": "67214589-7674-42f2-8f41-07ca612880c5",
@@ -76,6 +92,14 @@
                 "id": "0caf57fc-39b4-4abb-afc4-b8e4c93e9a39",
                 "resourcePath": "rooms\\room0\\room0.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "62872d0e-e07e-4733-be98-50b3432f4ef2",
+            "Value": {
+                "id": "46828a7d-9eff-4fe4-8302-a5656a08df1c",
+                "resourcePath": "objects\\oManager\\oManager.yy",
+                "resourceType": "GMObject"
             }
         },
         {
